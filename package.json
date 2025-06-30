@@ -1,0 +1,19 @@
+{
+  "name": "sendgon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sendGON.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.0.0",
+    "dotnet": "^1.1.4",
+    "express": "^5.1.0",
+    "prompt-sync": "^4.2.0",
+    "web3": "^4.16.0"
+  }
+}
